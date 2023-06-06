@@ -21,3 +21,4 @@ As for libraries I used the string library, the vector library, iostream, as wel
 
 - add more functionality to the program so the user can add more information.
 - add a couple of functions so the user can input more information.
+- make the program more presentable and more easy to read
